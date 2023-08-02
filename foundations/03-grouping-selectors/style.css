@@ -1,0 +1,14 @@
+.line1,
+.line2 {
+    font-size: 55px;
+    font-family: Helvecta, "Times New Roman", sans-serif;
+}
+
+.line1 {
+    color: white;
+    background-color: black;
+}
+
+.line2 {
+    background-color: yellow;
+}
